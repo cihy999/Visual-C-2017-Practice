@@ -6,28 +6,7 @@ namespace first
     {
         static void Main(string[] args)
         {
-            Product oldOne;
-            oldOne.no = "TVGame001";
-            oldOne.name = "Xbox One（含Kinect）";
-            oldOne.price = 17200;
 
-            Product newOne;
-            Console.Write("請輸入產品編號：");
-            newOne.no = Console.ReadLine();
-            Console.Write("請輸入產品名稱：");
-            newOne.name = Console.ReadLine();
-            Console.Write("請輸入產品單價：");
-            newOne.price = int.Parse(Console.ReadLine());
-
-            Console.WriteLine();
-
-            Console.WriteLine("=====產品單價清單=====");
-            Console.WriteLine("產品編號：{0}\n產品名稱：{1}\n產品單價：{2}",
-                oldOne.no, oldOne.name, oldOne.price);
-            Console.WriteLine("產品編號：{0}\n產品名稱：{1}\n產品單價：{2}",
-                newOne.no, newOne.name, newOne.price);
-
-            Console.Read();
         }
 
         private static void ConsoleEx1()

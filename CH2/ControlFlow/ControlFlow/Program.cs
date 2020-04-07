@@ -6,7 +6,7 @@ namespace ControlFlow
     {
         static void Main(string[] args)
         {
-            Program.ConsoleGuessNum();
+            
         }
 
         private static void ConsoleIfElse1()

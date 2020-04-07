@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\CH1\\first\\first\\first.csproj": {}
+    "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\Visual-C-2017-Practice\\CH1\\first\\first\\first.csproj": {}
   },
   "projects": {
-    "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\CH1\\first\\first\\first.csproj": {
+    "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\Visual-C-2017-Practice\\CH1\\first\\first\\first.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\CH1\\first\\first\\first.csproj",
+        "projectUniqueName": "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\Visual-C-2017-Practice\\CH1\\first\\first\\first.csproj",
         "projectName": "first",
-        "projectPath": "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\CH1\\first\\first\\first.csproj",
+        "projectPath": "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\Visual-C-2017-Practice\\CH1\\first\\first\\first.csproj",
         "packagesPath": "C:\\Users\\cihy9\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\CH1\\first\\first\\obj\\",
+        "outputPath": "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\Visual-C-2017-Practice\\CH1\\first\\first\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cihy9\\AppData\\Roaming\\NuGet\\NuGet.Config",

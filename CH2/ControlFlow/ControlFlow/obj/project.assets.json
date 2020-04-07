@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\CH2\\ControlFlow\\ControlFlow\\ControlFlow.csproj",
+      "projectUniqueName": "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\Visual-C-2017-Practice\\CH2\\ControlFlow\\ControlFlow\\ControlFlow.csproj",
       "projectName": "ControlFlow",
-      "projectPath": "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\CH2\\ControlFlow\\ControlFlow\\ControlFlow.csproj",
+      "projectPath": "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\Visual-C-2017-Practice\\CH2\\ControlFlow\\ControlFlow\\ControlFlow.csproj",
       "packagesPath": "C:\\Users\\cihy9\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\CH2\\ControlFlow\\ControlFlow\\obj\\",
+      "outputPath": "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\Visual-C-2017-Practice\\CH2\\ControlFlow\\ControlFlow\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cihy9\\AppData\\Roaming\\NuGet\\NuGet.Config",
