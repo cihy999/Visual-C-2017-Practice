@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\CH3\\ConsoleArray\\ConsoleArray\\ConsoleArray.csproj": {}
+    "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\Visual-C-2017-Practice\\CH3\\ConsoleArray\\ConsoleArray\\ConsoleArray.csproj": {}
   },
   "projects": {
-    "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\CH3\\ConsoleArray\\ConsoleArray\\ConsoleArray.csproj": {
+    "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\Visual-C-2017-Practice\\CH3\\ConsoleArray\\ConsoleArray\\ConsoleArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\CH3\\ConsoleArray\\ConsoleArray\\ConsoleArray.csproj",
+        "projectUniqueName": "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\Visual-C-2017-Practice\\CH3\\ConsoleArray\\ConsoleArray\\ConsoleArray.csproj",
         "projectName": "ConsoleArray",
-        "projectPath": "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\CH3\\ConsoleArray\\ConsoleArray\\ConsoleArray.csproj",
+        "projectPath": "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\Visual-C-2017-Practice\\CH3\\ConsoleArray\\ConsoleArray\\ConsoleArray.csproj",
         "packagesPath": "C:\\Users\\cihy9\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\CH3\\ConsoleArray\\ConsoleArray\\obj\\",
+        "outputPath": "D:\\Users\\cihy9\\Documents\\Visual Studio 2019\\Projects\\Visual-C-2017-Practice\\CH3\\ConsoleArray\\ConsoleArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cihy9\\AppData\\Roaming\\NuGet\\NuGet.Config",

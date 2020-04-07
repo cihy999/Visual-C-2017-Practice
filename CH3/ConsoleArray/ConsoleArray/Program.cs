@@ -92,5 +92,35 @@ namespace ConsoleArray
 
             Console.Read();
         }
+
+        private static void ConsoleAmount()
+        {
+            int[][] amt = new int[3][];
+            amt[0] = new int[] { 1100, 2200, 3300 };
+            amt[1] = new int[] { 1500, 2500 };
+            amt[2] = new int[] { 1000, 2000, 3000, 4000 };
+            float[] sum = new float[3];
+            float total = 0;
+
+            Console.WriteLine("\t第一處\t第二處\t第三處\t第四處\t(單位：千元)");
+            for (int i = 0; i < amt.Length; i++)
+            {
+                for (int j = 0; j < amt[i].Length; j++)
+                {
+                    Console.Write("\t{0}", amt[i][j]);
+                    sum[i] += amt[i][j] * 1000;
+                }
+                total += sum[i];
+                Console.WriteLine();
+            }
+
+            Console.WriteLine("\n");
+            Console.WriteLine("台北分公司營運額：{0:c}元\t營業率：{1}", sum[0], (sum[0] / total).ToString("##.##%"));
+            Console.WriteLine("台中分公司營運額：{0:c}元\t營業率：{1}", sum[1], (sum[1] / total).ToString("##.##%"));
+            Console.WriteLine("高雄分公司營運額：{0:c}元\t營業率：{1}", sum[2], (sum[2] / total).ToString("##.##%"));
+
+            Console.WriteLine("\n總營業額：{0:c}元", total);
+            Console.Read();
+        }
     }
 }

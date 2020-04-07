@@ -11,3 +11,16 @@ D:\Users\cihy9\Documents\Visual Studio 2019\Projects\CH3\ConsoleArray\ConsoleArr
 D:\Users\cihy9\Documents\Visual Studio 2019\Projects\CH3\ConsoleArray\ConsoleArray\obj\Debug\netcoreapp3.1\ConsoleArray.dll
 D:\Users\cihy9\Documents\Visual Studio 2019\Projects\CH3\ConsoleArray\ConsoleArray\obj\Debug\netcoreapp3.1\ConsoleArray.pdb
 D:\Users\cihy9\Documents\Visual Studio 2019\Projects\CH3\ConsoleArray\ConsoleArray\obj\Debug\netcoreapp3.1\ConsoleArray.genruntimeconfig.cache
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleArray\ConsoleArray\bin\Debug\netcoreapp3.1\ConsoleArray.exe
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleArray\ConsoleArray\bin\Debug\netcoreapp3.1\ConsoleArray.deps.json
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleArray\ConsoleArray\bin\Debug\netcoreapp3.1\ConsoleArray.runtimeconfig.json
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleArray\ConsoleArray\bin\Debug\netcoreapp3.1\ConsoleArray.runtimeconfig.dev.json
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleArray\ConsoleArray\bin\Debug\netcoreapp3.1\ConsoleArray.dll
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleArray\ConsoleArray\bin\Debug\netcoreapp3.1\ConsoleArray.pdb
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleArray\ConsoleArray\obj\Debug\netcoreapp3.1\ConsoleArray.csprojAssemblyReference.cache
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleArray\ConsoleArray\obj\Debug\netcoreapp3.1\ConsoleArray.csproj.CoreCompileInputs.cache
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleArray\ConsoleArray\obj\Debug\netcoreapp3.1\ConsoleArray.AssemblyInfoInputs.cache
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleArray\ConsoleArray\obj\Debug\netcoreapp3.1\ConsoleArray.AssemblyInfo.cs
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleArray\ConsoleArray\obj\Debug\netcoreapp3.1\ConsoleArray.dll
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleArray\ConsoleArray\obj\Debug\netcoreapp3.1\ConsoleArray.pdb
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleArray\ConsoleArray\obj\Debug\netcoreapp3.1\ConsoleArray.genruntimeconfig.cache
