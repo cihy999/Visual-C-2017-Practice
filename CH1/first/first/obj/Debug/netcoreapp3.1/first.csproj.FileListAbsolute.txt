@@ -1,0 +1,13 @@
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\CH1\first\first\bin\Debug\netcoreapp3.1\first.exe
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\CH1\first\first\bin\Debug\netcoreapp3.1\first.deps.json
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\CH1\first\first\bin\Debug\netcoreapp3.1\first.runtimeconfig.json
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\CH1\first\first\bin\Debug\netcoreapp3.1\first.runtimeconfig.dev.json
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\CH1\first\first\bin\Debug\netcoreapp3.1\first.dll
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\CH1\first\first\bin\Debug\netcoreapp3.1\first.pdb
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\CH1\first\first\obj\Debug\netcoreapp3.1\first.csproj.CoreCompileInputs.cache
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\CH1\first\first\obj\Debug\netcoreapp3.1\first.AssemblyInfoInputs.cache
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\CH1\first\first\obj\Debug\netcoreapp3.1\first.AssemblyInfo.cs
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\CH1\first\first\obj\Debug\netcoreapp3.1\first.dll
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\CH1\first\first\obj\Debug\netcoreapp3.1\first.pdb
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\CH1\first\first\obj\Debug\netcoreapp3.1\first.genruntimeconfig.cache
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\CH1\first\first\obj\Debug\netcoreapp3.1\first.csprojAssemblyReference.cache
