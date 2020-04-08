@@ -122,5 +122,25 @@ namespace ConsoleArray
             Console.WriteLine("\n總營業額：{0:c}元", total);
             Console.Read();
         }
+
+        private struct Student
+        {
+            public int no, score;
+            public string name;
+        }
+        private static void StructArray()
+        {
+            Student[] bbc = new Student[3];
+            bbc[0].no = 1001; bbc[0].name = "Paul"; bbc[0].score = 85;
+            bbc[1].no = 1002; bbc[1].name = "Jack"; bbc[1].score = 80;
+            bbc[2].no = 1003; bbc[2].name = "Mary"; bbc[2].score = 70;
+
+            Student[] bbd = new Student[]
+            {
+                new Student(){ no = 1001, name = "Paul", score = 85 },
+                new Student(){ no = 1002, name = "Jack", score = 80 },
+                new Student(){ no = 1003, name = "Mary", score = 70 }
+            };
+        }
     }
 }
