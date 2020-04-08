@@ -1,0 +1,13 @@
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleMethod\ConsoleMethod\bin\Debug\netcoreapp3.1\ConsoleMethod.exe
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleMethod\ConsoleMethod\bin\Debug\netcoreapp3.1\ConsoleMethod.deps.json
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleMethod\ConsoleMethod\bin\Debug\netcoreapp3.1\ConsoleMethod.runtimeconfig.json
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleMethod\ConsoleMethod\bin\Debug\netcoreapp3.1\ConsoleMethod.runtimeconfig.dev.json
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleMethod\ConsoleMethod\bin\Debug\netcoreapp3.1\ConsoleMethod.dll
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleMethod\ConsoleMethod\bin\Debug\netcoreapp3.1\ConsoleMethod.pdb
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleMethod\ConsoleMethod\obj\Debug\netcoreapp3.1\ConsoleMethod.csprojAssemblyReference.cache
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleMethod\ConsoleMethod\obj\Debug\netcoreapp3.1\ConsoleMethod.csproj.CoreCompileInputs.cache
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleMethod\ConsoleMethod\obj\Debug\netcoreapp3.1\ConsoleMethod.AssemblyInfoInputs.cache
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleMethod\ConsoleMethod\obj\Debug\netcoreapp3.1\ConsoleMethod.AssemblyInfo.cs
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleMethod\ConsoleMethod\obj\Debug\netcoreapp3.1\ConsoleMethod.dll
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleMethod\ConsoleMethod\obj\Debug\netcoreapp3.1\ConsoleMethod.pdb
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH3\ConsoleMethod\ConsoleMethod\obj\Debug\netcoreapp3.1\ConsoleMethod.genruntimeconfig.cache
