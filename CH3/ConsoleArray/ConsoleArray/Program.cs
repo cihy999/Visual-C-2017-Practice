@@ -6,7 +6,7 @@ namespace ConsoleArray
     {
         static void Main(string[] args)
         {
-
+            
         }
 
         private static void ConsoleAry()
@@ -130,12 +130,12 @@ namespace ConsoleArray
         }
         private static void StructArray()
         {
-            Student[] bbc = new Student[3];
-            bbc[0].no = 1001; bbc[0].name = "Paul"; bbc[0].score = 85;
-            bbc[1].no = 1002; bbc[1].name = "Jack"; bbc[1].score = 80;
-            bbc[2].no = 1003; bbc[2].name = "Mary"; bbc[2].score = 70;
+            Student[] bcc = new Student[3];
+            bcc[0].no = 1001; bcc[0].name = "Paul"; bcc[0].score = 85;
+            bcc[1].no = 1002; bcc[1].name = "Jack"; bcc[1].score = 80;
+            bcc[2].no = 1003; bcc[2].name = "Mary"; bcc[2].score = 70;
 
-            Student[] bbd = new Student[]
+            Student[] bdd = new Student[]
             {
                 new Student(){ no = 1001, name = "Paul", score = 85 },
                 new Student(){ no = 1002, name = "Jack", score = 80 },

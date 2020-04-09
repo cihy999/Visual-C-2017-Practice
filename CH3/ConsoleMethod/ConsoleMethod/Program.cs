@@ -53,14 +53,9 @@ namespace ConsoleMethod
 
     class Program
     {
-        private static int age = 25;
-        private static string name = "王志明";
-
         static void Main(string[] args)
         {
-            Console.WriteLine("Program類別靜態變數的資訊-->{0}的年齡為{1}歲", name, age);
-            Console.WriteLine("Class3類別靜態變數的資訊-->{0}的年齡無法取得",Class3.name);
-            Console.Read();
+            ConsoleStaticVar();
         }
 
         private static void Login(string username, bool isMale)
@@ -208,6 +203,15 @@ namespace ConsoleMethod
             Console.WriteLine("sum({0}, {1}, {2}) = {3}\n", 10, 20, 30, SumCollection.Sum(10, 20, 30));
             Console.WriteLine("sum({0}, {1}) = {2}\n", "\"Good \"", "\"Day.\"", SumCollection.Sum("Good ", "Day."));
             Console.WriteLine("sum({0}, {1}, {2}) = {3}\n", "\"Good \"", "\"Luck \"", "\"To You!\"", SumCollection.Sum("Good ", "Luck ", "To You!"));
+            Console.Read();
+        }
+
+        private static int age = 25;
+        private static string name = "王志明";
+        private static void ConsoleStaticVar()
+        {
+            Console.WriteLine("Program類別靜態變數的資訊-->{0}的年齡為{1}歲", name, age);
+            Console.WriteLine("Class3類別靜態變數的資訊-->{0}的年齡無法取得", Class3.name);
             Console.Read();
         }
     }
