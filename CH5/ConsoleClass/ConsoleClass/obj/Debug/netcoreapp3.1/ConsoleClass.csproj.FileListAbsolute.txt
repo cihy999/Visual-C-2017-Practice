@@ -1,0 +1,13 @@
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH5\ConsoleClass\ConsoleClass\bin\Debug\netcoreapp3.1\ConsoleClass.exe
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH5\ConsoleClass\ConsoleClass\bin\Debug\netcoreapp3.1\ConsoleClass.deps.json
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH5\ConsoleClass\ConsoleClass\bin\Debug\netcoreapp3.1\ConsoleClass.runtimeconfig.json
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH5\ConsoleClass\ConsoleClass\bin\Debug\netcoreapp3.1\ConsoleClass.runtimeconfig.dev.json
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH5\ConsoleClass\ConsoleClass\bin\Debug\netcoreapp3.1\ConsoleClass.dll
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH5\ConsoleClass\ConsoleClass\bin\Debug\netcoreapp3.1\ConsoleClass.pdb
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH5\ConsoleClass\ConsoleClass\obj\Debug\netcoreapp3.1\ConsoleClass.csprojAssemblyReference.cache
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH5\ConsoleClass\ConsoleClass\obj\Debug\netcoreapp3.1\ConsoleClass.csproj.CoreCompileInputs.cache
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH5\ConsoleClass\ConsoleClass\obj\Debug\netcoreapp3.1\ConsoleClass.AssemblyInfoInputs.cache
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH5\ConsoleClass\ConsoleClass\obj\Debug\netcoreapp3.1\ConsoleClass.AssemblyInfo.cs
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH5\ConsoleClass\ConsoleClass\obj\Debug\netcoreapp3.1\ConsoleClass.dll
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH5\ConsoleClass\ConsoleClass\obj\Debug\netcoreapp3.1\ConsoleClass.pdb
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH5\ConsoleClass\ConsoleClass\obj\Debug\netcoreapp3.1\ConsoleClass.genruntimeconfig.cache
