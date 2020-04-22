@@ -1,0 +1,13 @@
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleOther\ConsoleOther\obj\Debug\netcoreapp3.1\ConsoleOther.csproj.CoreCompileInputs.cache
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleOther\ConsoleOther\obj\Debug\netcoreapp3.1\ConsoleOther.AssemblyInfoInputs.cache
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleOther\ConsoleOther\obj\Debug\netcoreapp3.1\ConsoleOther.AssemblyInfo.cs
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleOther\ConsoleOther\bin\Debug\netcoreapp3.1\ConsoleOther.exe
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleOther\ConsoleOther\bin\Debug\netcoreapp3.1\ConsoleOther.deps.json
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleOther\ConsoleOther\bin\Debug\netcoreapp3.1\ConsoleOther.runtimeconfig.json
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleOther\ConsoleOther\bin\Debug\netcoreapp3.1\ConsoleOther.runtimeconfig.dev.json
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleOther\ConsoleOther\bin\Debug\netcoreapp3.1\ConsoleOther.dll
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleOther\ConsoleOther\bin\Debug\netcoreapp3.1\ConsoleOther.pdb
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleOther\ConsoleOther\obj\Debug\netcoreapp3.1\ConsoleOther.dll
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleOther\ConsoleOther\obj\Debug\netcoreapp3.1\ConsoleOther.pdb
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleOther\ConsoleOther\obj\Debug\netcoreapp3.1\ConsoleOther.genruntimeconfig.cache
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleOther\ConsoleOther\obj\Debug\netcoreapp3.1\ConsoleOther.csprojAssemblyReference.cache

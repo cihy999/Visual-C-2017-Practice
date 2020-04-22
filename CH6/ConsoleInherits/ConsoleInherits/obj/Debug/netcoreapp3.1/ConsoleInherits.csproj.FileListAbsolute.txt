@@ -1,0 +1,13 @@
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInherits\ConsoleInherits\bin\Debug\netcoreapp3.1\ConsoleInherits.exe
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInherits\ConsoleInherits\bin\Debug\netcoreapp3.1\ConsoleInherits.deps.json
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInherits\ConsoleInherits\bin\Debug\netcoreapp3.1\ConsoleInherits.runtimeconfig.json
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInherits\ConsoleInherits\bin\Debug\netcoreapp3.1\ConsoleInherits.runtimeconfig.dev.json
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInherits\ConsoleInherits\bin\Debug\netcoreapp3.1\ConsoleInherits.dll
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInherits\ConsoleInherits\bin\Debug\netcoreapp3.1\ConsoleInherits.pdb
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInherits\ConsoleInherits\obj\Debug\netcoreapp3.1\ConsoleInherits.csprojAssemblyReference.cache
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInherits\ConsoleInherits\obj\Debug\netcoreapp3.1\ConsoleInherits.csproj.CoreCompileInputs.cache
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInherits\ConsoleInherits\obj\Debug\netcoreapp3.1\ConsoleInherits.AssemblyInfoInputs.cache
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInherits\ConsoleInherits\obj\Debug\netcoreapp3.1\ConsoleInherits.AssemblyInfo.cs
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInherits\ConsoleInherits\obj\Debug\netcoreapp3.1\ConsoleInherits.dll
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInherits\ConsoleInherits\obj\Debug\netcoreapp3.1\ConsoleInherits.pdb
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInherits\ConsoleInherits\obj\Debug\netcoreapp3.1\ConsoleInherits.genruntimeconfig.cache

@@ -232,7 +232,7 @@ namespace ConsoleClass
 
         public void Pop()
         {
-            if(_top == 0)
+            if (_top == 0)
             {
                 Console.WriteLine("\n==> 堆疊空了！......\n");
                 return;
@@ -254,7 +254,7 @@ namespace ConsoleClass
             else
             {
                 Console.Write("\n==> 顯示堆疊內容：");
-                for (int i =0; i < _top; i++) Console.Write("{0} ",_aryData[i]);
+                for (int i = 0; i < _top; i++) Console.Write("{0} ", _aryData[i]);
                 Console.WriteLine("\n");
             }
         }
@@ -264,7 +264,7 @@ namespace ConsoleClass
     {
         static void Main(string[] args)
         {
-
+            
         }
 
         private static void Draw(int vType)
@@ -421,11 +421,11 @@ namespace ConsoleClass
         private static void ConsoleConstructor1()
         {
             Student2[] students = new Student2[]
-{
+            {
                 new Student2(){ Name= "Peter"},
                 new Student2(56){ Name = "David"},
                 new Student2(48, 150){ Name = "Mary"},
-};
+            };
             string[] constructorUsing = new string[]
             {
                 "使用Student()建構式", "使用Student(56)建構式", "使用Student(48, 150)建構式",

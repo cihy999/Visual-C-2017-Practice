@@ -1,0 +1,13 @@
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInterface\ConsoleInterface\bin\Debug\netcoreapp3.1\ConsoleInterface.exe
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInterface\ConsoleInterface\bin\Debug\netcoreapp3.1\ConsoleInterface.deps.json
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInterface\ConsoleInterface\bin\Debug\netcoreapp3.1\ConsoleInterface.runtimeconfig.json
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInterface\ConsoleInterface\bin\Debug\netcoreapp3.1\ConsoleInterface.runtimeconfig.dev.json
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInterface\ConsoleInterface\bin\Debug\netcoreapp3.1\ConsoleInterface.dll
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInterface\ConsoleInterface\bin\Debug\netcoreapp3.1\ConsoleInterface.pdb
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInterface\ConsoleInterface\obj\Debug\netcoreapp3.1\ConsoleInterface.csproj.CoreCompileInputs.cache
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInterface\ConsoleInterface\obj\Debug\netcoreapp3.1\ConsoleInterface.AssemblyInfoInputs.cache
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInterface\ConsoleInterface\obj\Debug\netcoreapp3.1\ConsoleInterface.AssemblyInfo.cs
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInterface\ConsoleInterface\obj\Debug\netcoreapp3.1\ConsoleInterface.dll
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInterface\ConsoleInterface\obj\Debug\netcoreapp3.1\ConsoleInterface.pdb
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInterface\ConsoleInterface\obj\Debug\netcoreapp3.1\ConsoleInterface.genruntimeconfig.cache
+D:\Users\cihy9\Documents\Visual Studio 2019\Projects\Visual-C-2017-Practice\CH6\ConsoleInterface\ConsoleInterface\obj\Debug\netcoreapp3.1\ConsoleInterface.csprojAssemblyReference.cache
