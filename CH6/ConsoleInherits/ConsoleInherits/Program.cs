@@ -67,7 +67,7 @@ namespace ConsoleInherits
     {
         static void Main(string[] args)
         {
-
+            ConsoleStaticMember();
         }
 
         private static void ConsoleInherits1()

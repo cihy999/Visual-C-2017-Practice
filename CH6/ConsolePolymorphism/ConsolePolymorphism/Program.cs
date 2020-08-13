@@ -167,7 +167,7 @@ namespace ConsolePolymorphism
     {
         static void Main(string[] args)
         {
-          
+            ConsolePolymorphism4();
         }
 
         private static void ConsolePolymorphism1()
